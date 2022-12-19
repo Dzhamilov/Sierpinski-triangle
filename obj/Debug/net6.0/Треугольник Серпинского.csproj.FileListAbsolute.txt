@@ -1,0 +1,15 @@
+C:\Users\Акбар\Desktop\Треугольник Серпинского\bin\Debug\net6.0\Треугольник Серпинского.exe
+C:\Users\Акбар\Desktop\Треугольник Серпинского\bin\Debug\net6.0\Треугольник Серпинского.deps.json
+C:\Users\Акбар\Desktop\Треугольник Серпинского\bin\Debug\net6.0\Треугольник Серпинского.runtimeconfig.json
+C:\Users\Акбар\Desktop\Треугольник Серпинского\bin\Debug\net6.0\Треугольник Серпинского.dll
+C:\Users\Акбар\Desktop\Треугольник Серпинского\bin\Debug\net6.0\Треугольник Серпинского.pdb
+C:\Users\Акбар\Desktop\Треугольник Серпинского\obj\Debug\net6.0\Треугольник Серпинского.csproj.AssemblyReference.cache
+C:\Users\Акбар\Desktop\Треугольник Серпинского\obj\Debug\net6.0\Треугольник Серпинского.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Акбар\Desktop\Треугольник Серпинского\obj\Debug\net6.0\Треугольник Серпинского.AssemblyInfoInputs.cache
+C:\Users\Акбар\Desktop\Треугольник Серпинского\obj\Debug\net6.0\Треугольник Серпинского.AssemblyInfo.cs
+C:\Users\Акбар\Desktop\Треугольник Серпинского\obj\Debug\net6.0\Треугольник Серпинского.csproj.CoreCompileInputs.cache
+C:\Users\Акбар\Desktop\Треугольник Серпинского\obj\Debug\net6.0\Треугольник Серпинского.dll
+C:\Users\Акбар\Desktop\Треугольник Серпинского\obj\Debug\net6.0\refint\Треугольник Серпинского.dll
+C:\Users\Акбар\Desktop\Треугольник Серпинского\obj\Debug\net6.0\Треугольник Серпинского.pdb
+C:\Users\Акбар\Desktop\Треугольник Серпинского\obj\Debug\net6.0\Треугольник Серпинского.genruntimeconfig.cache
+C:\Users\Акбар\Desktop\Треугольник Серпинского\obj\Debug\net6.0\ref\Треугольник Серпинского.dll
